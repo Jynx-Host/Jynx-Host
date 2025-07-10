@@ -1,7 +1,8 @@
 # Hi there, I'm Rustap! 👋
 ### GitHub: [@Jynx-Host](https://github.com/Jynx-Host)
 
-![Luffy waving]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1d3FzY2x4dHp0bG5yY2N4Z2Z4a2V5dGJ5N2V4b2V4bWJ6eXJ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif](https://i.pinimg.com/736x/f3/15/8a/f3158a0e2e7096eb0cfe7186ce4c6652.jpg))
+![Luffy waving]
+(https://i.pinimg.com/736x/f3/15/8a/f3158a0e2e7096eb0cfe7186ce4c6652.jpg)
 
 ## 🛠️ My Skills
 
