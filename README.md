@@ -1,8 +1,7 @@
 # Hi there, I'm Rustap! 👋
 ### GitHub: [@Jynx-Host](https://github.com/Jynx-Host)
 
-![Luffy waving]
-(https://i.pinimg.com/736x/f3/15/8a/f3158a0e2e7096eb0cfe7186ce4c6652.jpg)
+<img src="https://i.pinimg.com/736x/f3/15/8a/f3158a0e2e7096eb0cfe7186ce4c6652.jpg" width="300" alt="Luffy waving">
 
 ## 🛠️ My Skills
 
@@ -21,3 +20,4 @@
 ## 🚀 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jynx-Host&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jynx-Host&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
