@@ -1,31 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rustap</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+# Hi there, I'm Rustap! 👋
+### GitHub: [@Jynx-Host](https://github.com/Jynx-Host)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jynx-host&label=Profile%20views&color=0e75b6&style=flat" alt="jynx-host" /> </p>
+![Luffy waving](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1d3FzY2x4dHp0bG5yY2N4Z2Z4a2V5dGJ5N2V4b2V4bWJ6eXJ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
-- 🔭 I’m currently working on **Facebook-Cracking**
+## 🛠️ My Skills
 
-- 🌱 I’m currently learning **Js,Php,C++**
+### Proficient in:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- 👯 I’m looking to collaborate on **No..**
+### Currently Learning:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🤝 I’m looking for help with **More Motivation**
+## 🚀 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jynx-Host&show_icons=true&theme=radical)
 
-- 💬 Ask me about **Any Help**
-
-- 📫 How to reach me **rustapchaudhary3@gmail.com**
-
-- ⚡ Fun fact **I Can Deploy Rat Without Any Rats**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/scott.fric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rustap chaudhary" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lyzo-era" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lyzo-era" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jynx-host&show_icons=true&locale=en" alt="jynx-host" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jynx-host&" alt="jynx-host" /></p>
+## 🐍 Snake eating my contributions
+![snake gif](https://github.com/Jynx-Host/Jynx-Host/blob/output/github-contribution-grid-snake.svg)
